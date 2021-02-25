@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 大家好，很高兴在这个机缘巧合的情况下认识大家
-- 我叫钟宏鸣，来自福建厦门，兴趣爱好是看小说
+- 我叫###，来自福建厦门，兴趣爱好是看小说
 - 工作不是人生的全部，人生还有很多美好的事情，尽量活得精彩。
 <!--
 **784034506b/784034506b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
